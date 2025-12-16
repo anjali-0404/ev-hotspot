@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "943547303388",
+    "firebase_url": "https://evstation-7caf2-default-rtdb.firebaseio.com",
+    "project_id": "evstation-7caf2",
+    "storage_bucket": "evstation-7caf2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943547303388:android:fee20a0c3c4d36196c3b19",
+        "android_client_info": {
+          "package_name": "com.example.open_street_map_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFS-i-ugJkiOwJ5kaHXVcod0zQc_Zr7ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
